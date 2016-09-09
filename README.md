@@ -1,3 +1,3 @@
 # hello-world
-It's waht they told me to do
+It's what they suggested to do
 Ok here's line three etc etc
